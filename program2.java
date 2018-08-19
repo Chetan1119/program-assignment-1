@@ -6,7 +6,7 @@ public static void main(String[] a)
 
 Scanner a=new Scanner(System.in);
 string b;
-b=a.nextLine;
+b=a.nextLine();
 System.out.println("input your name");
 System.out.println(b);
 }
