@@ -1,10 +1,20 @@
+import java.util.Scanner;
 
-public class Prog
+public class Jka
 {
-public static viod main(String[] x)
+public static void main(String[] x)
+
 {
 
-System.out.println("Hello World!");
+Scanner i=new Scanner(System.in);
+
+  
+String s;
+  
+s=i.nextLine();
+
+  System.out.println(s);
+
 
 }
 
