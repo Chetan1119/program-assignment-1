@@ -1,13 +1,16 @@
 import java.util.Scanner;
-public class Prog
+
+public class Jkaw
 {
-public static void main(String[] a)
+public static void main(String[] o)
+
 {
 
 Scanner a=new Scanner(System.in);
-string b;
-b=a.nextLine();
+String b;
 System.out.println("input your name");
+b=a.nextLine();
+
 System.out.println(b);
 }
 
